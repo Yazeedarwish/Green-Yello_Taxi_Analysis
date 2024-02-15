@@ -17,10 +17,10 @@ Involves preprocessing the New York yellow taxi dataset using PySpark. The same 
 Orchestrates the tasks from Milestones 1 and 2 using Apache Airflow within Docker. The green dataset is primarily processed using pandas for simplicity. Tasks include reading the CSV file, cleaning and transforming the data, loading it into PostgreSQL, extracting additional resources such as GPS coordinates, integrating with the cleaned dataset, and creating a dashboard using the Dash package in Python for web interface presentation.
 
 # Technologies Used:
-Python (including libraries such as Pandas, PySpark, Dash)
-PostgreSQL
-Docker
-Apache Airflow
+- Python (including libraries such as Pandas, PySpark, Dash)
+- PostgreSQL
+- Docker
+- Apache Airflow
 
 ## Purpose:
 This project serves as a practical exploration of data engineering techniques applied to transportation datasets, demonstrating proficiency in data preprocessing, workflow orchestration, SQL querying, and dashboard creation for data-driven insights.
