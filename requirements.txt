@@ -1,0 +1,5 @@
+sqlalchemy
+scikit-learn
+dash
+pandas
+numpy 
